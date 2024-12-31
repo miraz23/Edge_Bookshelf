@@ -45,7 +45,7 @@ const Header = ({ onSearch }) => {
         </div>
       </div>
 
-      <div className="flex items-center">
+      <div className="flex items-center cursor-pointer">
         <button className="text-sm font-medium text-gray-800 mr-2">Miraz</button>
         <img src="./src/assets/developer.jpg" alt="Profile" className="w-8 h-8 rounded-full border border-gray-300"/>
       </div>
